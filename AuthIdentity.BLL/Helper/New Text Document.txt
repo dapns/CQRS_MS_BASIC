@@ -1,0 +1,10 @@
+https://www.c-sharpcorner.com/article/custom-authentication-validate-jwt-token-in-net-core/
+
+
+https://www.c-sharpcorner.com/article/asynchronous-communication-between-microservices-using-net-core-api-rabbitmq/
+
+https://medium.com/@giorgos.dyrrahitis/net-core-and-rabbitmq-5f3c76f39de6
+
+https://www.c-sharpcorner.com/article/custom-authentication-validate-jwt-token-in-net-core/
+
+https://github.com/GWLlosa/DynamicJWTExample/blob/master/DynamicJwtExample/DynamicJwtExample/DynamicKeyJwtValidationHandler.cs
